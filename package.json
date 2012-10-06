@@ -18,9 +18,10 @@
   },
 
   "dependencies": {
-    "hubot": "2.2.0",
-    "hubot-scripts": ">=2.0.8",
-    "optparse": "1.0.3"
+    "hubot": "2.3.0",
+    "hubot-scripts": ">=2.1.0",
+    "optparse": "1.0.3",
+    "hubot-hipchat": ">= 1.0.9"
   }
 }
 
