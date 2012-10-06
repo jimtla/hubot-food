@@ -11,7 +11,7 @@ elif [ ${HUBOT_ENV-hubot} == 'ryan' ]; then
     export HUBOT_HIPCHAT_NAME="Hugo Botson"
     export HUBOT_HIPCHAT_PASSWORD="hugohugo"
     export HUBOT_HIPCHAT_TOKEN="10e3934720a3b20d6c0446c00aef16"
-    export HUBOT_ORDER_PREFIX="rordrin"
+    export HUBOT_ORDER_PREFIX="r ordrin"
 elif [ ${HUBOT_ENV-hubot} == 'ahmed' ]; then
     export HUBOT_HIPCHAT_JID="27746_172825@chat.hipchat.com"
     export HUBOT_HIPCHAT_NAME="Ahmed Medbot"
